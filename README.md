@@ -9,14 +9,14 @@
 Убеждаемся, что на компьютере установлен google chrome
 
 1. (опциональный шаг) Установка google chrome через консоль на windows
-```
-winget install Google.Chrome
 ```bash
+winget install Google.Chrome
+```
 
 2. Устанавливаем зависимости
-```
-pip install -r requirements.txt
 ```bash
+pip install -r requirements.txt
+```
 
 3. Запускаем InputerFromExcelForWin.py
 
