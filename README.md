@@ -14,13 +14,13 @@ winget install Google.Chrome
 ```bash
 
 2. Устанавливаем зависимости
-```bash
-pip install -r requirements.txt
 ```
+pip install -r requirements.txt
+```bash
 
 3. Запускаем InputerFromExcelForWin.py
 
 
-В конце работы будет сделан скриншот с результатом прохождения теста
+В конце работы будет сделан скриншот с результатом прохождения теста в директорию проекта
 Также будет создан файл с логами
 
