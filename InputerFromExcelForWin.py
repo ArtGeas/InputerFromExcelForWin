@@ -49,7 +49,7 @@ try:
     
     _logger.info(f"{datetime.now()} - driver initialized")
 
-    # разворачиваем окно на весь экран и переходим по нашему url, ждем 5 сек для прогрузки страницы
+    # разворачиваем окно на весь экран и переходим по нашему url
     driver.maximize_window()
     driver.get(URL)
 
